@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "darksoul.png"
+  avatar           : "darksoul.jpg"
   name             : "Paradise"
   pronouns         : # example: "she/her"  
   bio              : "Research interest: time series forecasting, spatio-temporal series forecasting, RUL forecasting, and spatio-temporal series n-shot learning"
