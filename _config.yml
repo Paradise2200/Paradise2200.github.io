@@ -22,7 +22,7 @@ repository               : "Paradise2200/Paradise2200.github.io"
 author:
   # Biographic information
   avatar           : "darksoul.png"
-  name             : "Paradise"
+  name             : "Junhao Tan"
   pronouns         : # example: "she/her"  
   bio              : "Research interest: time series forecasting, spatio-temporal series forecasting, RUL forecasting, and spatio-temporal series n-shot learning"
   location         : "Shenzhen, CN"
